@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int a;
-    while(1)
+    for(;;)
     {
         cout<<"Enter an option: 1. Add 2. Multiply"<<endl;
         cin>>a;
