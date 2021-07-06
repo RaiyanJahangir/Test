@@ -14,13 +14,13 @@ int main()
         cin>>c;
         cout<<"Sum is "<<b+c<<endl;
     }
-    else
+    else if(a==2)
     {
-        int f,g;
+        int b,c;
         cout<<"Enter first number:";
-        cin>>f;
+        cin>>b;
         cout<<"Enter second number:";
-        cin>>g;
-        cout<<"Sum is "<<f*g<<endl;
+        cin>>c;
+        cout<<"Product is "<<b*c<<endl;
     }
 }
