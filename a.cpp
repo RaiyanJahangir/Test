@@ -1,5 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
+int sub(int a,int b)
+{
+    return a-b;
+}
 int add(int n1,int n2){
     return n1+n2;
 }
