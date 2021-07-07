@@ -1,5 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
+void find_even(int n)
+{
+    if(n%2==0)
+        cout<<"Even"<<endl;
+    else
+        cout<<"Odd"<<endl;
+}
 int main()
 {
     int a;
