@@ -2,8 +2,6 @@
 using namespace std;
 
 int main(){
-    string i;    
-    cin>>i;
-    cout<<"This is string i "<<i<<endl;
+    cout<<"Rj vai high cg "<<endl;
     return 0;
 }
